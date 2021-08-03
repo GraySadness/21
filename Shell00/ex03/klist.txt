@@ -1,0 +1,5 @@
+Credentials cache: API:16615
+        Principal: lliane@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug  3 14:16:05 2021  Aug  4 00:15:57 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
